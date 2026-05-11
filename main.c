@@ -1,3 +1,4 @@
+//基礎プログラミングII 第3回　SchooMyプロジェクト
 #include <SchooMyUtilities.h>
 SchooMyUtilities scmUtils = SchooMyUtilities();
 
